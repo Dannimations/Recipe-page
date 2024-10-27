@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Young+Serif&display=swap');
+body{
+    background-color: #f3e5d8;
+}
+#main-container{
+    font-family: Outfit;
+    background-color: white;
+    width: 40%;
+    height: 1440px;
+    padding: 30px 30px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    margin: 0% auto;
+}
+#main-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+h1{
+    font-family: Young Serif;
+}
+h2{
+    font-family: Young Serif;
+}
+ul{
+    font-size: 13px;
+}
+ol{
+    font-size: 13px;
+}
+#prepTime{
+    background-color: #fff7fc;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+h2{
+    color: #814731;
+}
+#Instructions{
+    color: #6e6a67;
+}
+#Instructions ol li{
+    padding-top: 10px;
+}
+#Ingredients{
+    color: #6e6a67;
+}
+#Ingredients ul li{
+    padding-top: 10px;
+}
+.nutrients{
+    color: #6e6a67;
+    padding-left: 40px;
+    float: left;
+}
+.numbers{
+    padding-left: 50%;
+    color: #a26962;
+}
+hr{
+    color: #ccc;
+}
